@@ -3,11 +3,7 @@ import pyrogram
 from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 from pyrogram.errors import UserNotParticipant
-
-if bool(os.environ.get("WEBHOOK", False)):
-    from mwk.config import Config
-else:
-    from config import Config
+from mwk.config import Config
 
 # the Strings used for this "thing"
 import logging

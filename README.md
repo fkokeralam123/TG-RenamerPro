@@ -36,8 +36,10 @@ pip install -r requirements.txt
 python3 bot.py
 ```
 ## Credits 
+* Mr Vishal 2k2 for idea
 * [Alber Einstein Tg](https://telegram.dog/AlbertEinstein_TG/) - For Pyro tips
-* [Heiman Creation](https://telegram.dog/HeimanCreation/) For Force Sub
+* [Heiman Creation](https://telegram.dog/HeimanCreation/) 
+* Inuka
 * And everyone in this Journey
 
 * Language: [Python3](https://www.python.org)

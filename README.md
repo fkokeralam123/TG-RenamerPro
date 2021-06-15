@@ -35,13 +35,6 @@ virtualenv -p /usr/bin/python3 venv
 pip install -r requirements.txt
 python3 bot.py
 ```
-## Credits 
-* Mr Vishal 2k2 for idea
-* [Alber Einstein Tg](https://telegram.dog/AlbertEinstein_TG/) - For Pyro tips
-* [Heiman Creation](https://telegram.dog/HeimanCreation/) 
-* Inuka
-* And everyone in this Journey
-
 * Language: [Python3](https://www.python.org)
 * Library: [Pyrogram](https://docs.pyrogram.org)
 
@@ -50,8 +43,8 @@ python3 bot.py
 * You can checkout my bots At [MwK Projects](https://telegram.dog/mwklinks)
  
 
-#### Required Variables
-
+#### Required Variables (Mandatory)
+```
 * `TG_BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
 * `APP_ID`: Get this value from [telegram.org](https://my.telegram.org/apps)
  You can also get it from [UseTGXBot](https://telegram.dog/UseTGXBot)
@@ -59,6 +52,8 @@ python3 bot.py
  You can also get it from [UseTGXBot](https://telegram.dog/UseTGXBot)
 * `OWNER_ID`: Owner's Userid for log command
 * `CUSTOM_CAPTION`: Custom Caption to use after Filename in caption
+* `UPDATE_CHANNEL` : for force sub
+```
 
 ## Commands:
 ```
@@ -68,10 +63,21 @@ python3 bot.py
 /deletethumb - deletes saved thumbnail
 /log - admin cmd 
 ```
+
+## Credits 
+```
+* [Alber Einstein Tg] - For Pyro tips
+* [Heiman Creation]
+* InukaAsith
+* And everyone in this Journey
+``` 
+
 ## ToDO
+```
 * Increase stability
 * Add other multiple useful stuff
 * Add Auth system for private use 
+```
 
 ### Support:
 * Join MwK Projects channel
@@ -88,8 +94,10 @@ python3 bot.py
 </p>
 
 ## All rights reserved !!
+```
 * Kangers stay away from Kang !!
 * Don't be a copy cat !!
 * Good to see if you give me credits if you are using !!
 * This is only for personal use !! Don't make a Bot channel Business with this !!
 * Pull Requests are always accepted but shouldn't involve increasing complexity of deploying
+```

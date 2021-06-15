@@ -81,10 +81,8 @@ Use [Rename Robot](https://telegram.dog/mwk_renamebot)
 ```
 
 ### Support:
-* Join MwK Projects channel
-<a href="https://telegram.dog/mwklinks"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-* Join Support Group
-<a href="https://telegrsm.dog/redbullfed"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
+* <a href="https://telegram.dog/mwklinks"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+* <a href="https://telegrsm.dog/redbullfed"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 
 ### Follow on:
 <p align="left">

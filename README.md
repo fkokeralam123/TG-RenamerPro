@@ -19,7 +19,7 @@
 ### Installation
 
 #### Easy Way 
-Use [Rename Robot](https://telegram.dog/mwk_renamebot) 
+Use [Rename Robot](https://telegram.dog/fko_keralam_bot) 
 
 #### The Simple Way
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
@@ -30,7 +30,7 @@ Use [Rename Robot](https://telegram.dog/mwk_renamebot)
 * This is just a demo of commands to use
 
 ```
-👉 git clone https://github.com/shamilhabeebnelli/TG-RenamerPRO
+👉 git clone https://github.com/fkokeralam123/TG-RenamerPRO
 👉 virtualenv -p /usr/bin/python3 venv
 👉 . ./venv/bin/activate
 👉 pip install -r requirements.txt
@@ -40,8 +40,8 @@ Use [Rename Robot](https://telegram.dog/mwk_renamebot)
 * Library: [Pyrogram](https://docs.pyrogram.org)
 
 ### Developer 
-* Telegram [Shamil Habeeb](https://telegram.dog/shamilnelli) 
-* You can checkout my bots At [MwK Projects](https://telegram.dog/mwklinks)
+* Telegram [FKO KERALAM](https://telegram.dog/FKO63) 
+* You can checkout my bots At [FKO KERALAM CHANNEL](https://telegram.dog/fko_keralam_movies)
  
 
 #### Required Variables (Mandatory)
@@ -81,15 +81,15 @@ Use [Rename Robot](https://telegram.dog/mwk_renamebot)
 ```
 
 ### Support:
-* <a href="https://telegram.dog/mwklinks"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-* <a href="https://telegrsm.dog/redbullfed"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
+* <a href="https://telegram.dog/fko_keralam_movies"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+* <a href="https://telegrsm.dog/fko_keralam"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 
 ### Follow on:
 <p align="left">
-<a href="https://github.com/ShamilHabeebnelli"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
+<a href="https://github.com/fkokeralam123"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
 </p>
 <p align="left">
-<a href="https://instagram.com/_shamil.habeeb_"><img src="https://img.shields.io/badge/Instagram-Follow%20on%20Instagram-informational.svg?logo=instagram"></a>
+<a href="https://instagram.com/fkokeralam123_"><img src="https://img.shields.io/badge/Instagram-Follow%20on%20Instagram-informational.svg?logo=instagram"></a>
 </p>
 
 ## All rights reserved !!
